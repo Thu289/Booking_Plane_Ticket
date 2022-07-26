@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 6, 2022, 11:26:11 AM
+    Author     : Vostro 5502
+*/
+
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+div{
+    background-color: aliceblue;
+    margin: auto;
+    width: 50%;
+    border-radius: 5px;
+}
